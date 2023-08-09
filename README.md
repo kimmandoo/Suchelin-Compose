@@ -9,6 +9,7 @@
 * [ ] lottie
 * [ ] Kotlin DSL
 * [ ] Clean Architecture
+* [ ] gradle version catalog
 * [ ] 파이어베이스로 버전관리 해보기
 * [ ] 조금 더 깔끔한 서버리스 앱
 * [ ] 멀티모듈(optional)
