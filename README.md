@@ -1,6 +1,9 @@
 # Suchelin-Compose
 수원대학교 메뉴결정 앱 - 수슐랭 
 
+이전 버전은 https://github.com/kimmandoo/SuChelin 입니다. 컴포즈 학습 및 코드 리팩토링을 위해 바꿨습니다
+
+
 ### 2023/08/28 ~ 공사중
 
 * [ ] MVVM 마이그레이션
